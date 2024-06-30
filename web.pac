@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 localhost:1080; SOCKS localhost:1080; SOCKS5 localhost:1086; SOCKS localhost:1086; SOCKS5 172.16.0.100:1086; SOCKS 172.16.0.100:1086; DIRECT";
+var proxy = "SOCKS5 localhost:1080; SOCKS localhost:1080; SOCKS5 localhost:1086; SOCKS localhost:1086; DIRECT; ";
 
 var rules = [
 "a1c.club",
