@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 localhost:1080; SOCKS localhost:1080; SOCKS5 localhost:1086; SOCKS localhost:1086; DIRECT";
+var proxy = "SOCKS5 localhost:1080; SOCKS localhost:1080; SOCKS5 localhost:1086; SOCKS localhost:1086; SOCKS5 172.16.0.100:1086; SOCKS 172.16.0.100:1086; DIRECT";
 
 var rules = [
 "a1c.club",
@@ -2691,6 +2691,7 @@ var rules = [
 "izlesem.org",
 "j.mp",
 "ja.wikipedia.org",
+"jable.tv",
 "jads.co",
 "jamaat.org",
 "jamyangnorbu.com",
@@ -2881,6 +2882,7 @@ var rules = [
 "kurashsultan.com",
 "kurtmunger.com",
 "kusocity.com",
+"kwcdn.com",
 "kwcg.ca",
 "kwongwah.com.my",
 "kxsw.life",
@@ -3319,6 +3321,7 @@ var rules = [
 "murmur.tw",
 "muscdn.com",
 "musemuse.cn",
+"mushroomtrack.com",
 "music.a2z.com",
 "music.amazon.co.jp",
 "musicade.net",
@@ -4802,6 +4805,7 @@ var rules = [
 "telesco.pe",
 "tellme.pw",
 "telyuka.com",
+"temu.com",
 "tenacy.com",
 "tenor.com",
 "tensorflow.org",
